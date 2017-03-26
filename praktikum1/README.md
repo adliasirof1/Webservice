@@ -17,7 +17,7 @@ BANDUNG
 
 2017
 
-[
+<p>
 <?xml encoding="UTF-8"?>
 
 <!ELEMENT logbarang (barang)+>
@@ -56,7 +56,7 @@ BANDUNG
 <!ELEMENT kodewil (#PCDATA)>
 <!ATTLIST kodewil
     xmlns CDATA #FIXED ''>
-]
+</p>
 Analisis
 
 <?xmlversion="1.0"encoding="UTF-8"?>
