@@ -69,6 +69,7 @@ Sintak yang menyatakan bahwa dtd dengan logbarang sudah terhubung dengan xmlnya.
 Sintak element logbarang dari xml dengan nama barang.
 
 <barang> <kode>M1112</kode> <satuan>pc</satuan> <hargacur="nmtoken">5000</harga> <asal> <pt>ladyrock</pt> <kodewil>10</kodewil> </asal> <tujuan> <pt>union</pt> <kodewil>1001</kodewil> </tujuan></barang>
+
 Dalam elemen logbarang terdapat elemen barang dengan didalamnya terdapat element kode, satuan, harga, asal, dan tujuan. Dalam elemen harga terdapat atribut cur = "nmtoken". Dalam elemen asal terdapat elemen pt dan kodewil dan dalam elemen tujuan terdapat elemen pt dan kodewil. Dan ditutup dengan elemen penutul barang.
 
 </logbarang>
